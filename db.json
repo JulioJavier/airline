@@ -1,0 +1,27 @@
+[
+    {
+        "_id":"EC01",
+        "origin":"España",
+        "destination":"Colombia",
+        "date":"2023-03-05 11:00:00",
+        "price":1000000,
+        "chair":[
+            {
+                "category":"Standard",
+                "chair":101
+            },
+            {
+                "category":"Standard",
+                "chair":102
+            },
+            {
+                "category":"Premium",
+                "chair":11
+            },
+            {
+                "category":"Premium",
+                "chair":12
+            }
+        ]
+    }
+]
